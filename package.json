@@ -1,0 +1,11 @@
+{
+  "name": "space-traders",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.35.0",
+    "prettier": "3.3.3",
+    "typescript-eslint": "^8.2.0"
+  }
+}

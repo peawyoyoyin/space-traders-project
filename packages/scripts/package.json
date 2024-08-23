@@ -1,0 +1,13 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "common": "workspace:",
+    "api-client": "workspace:../api-client"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "tsx": "catalog:",
+    "typescript": "catalog:"
+  }
+}

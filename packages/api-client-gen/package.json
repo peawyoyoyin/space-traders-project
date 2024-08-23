@@ -1,0 +1,10 @@
+{
+  "name": "api-client",
+  "version": "1.0.0",
+  "devDependencies": {
+    "autorest": "^3.7.1"
+  },
+  "scripts": {
+    "generate": "autorest --input-file=\"https://stoplight.io/api/v1/projects/spacetraders/spacetraders/nodes/reference/SpaceTraders.json?fromExportButton=true&snapshotType=http_service&deref=optimizedBundle\" --output-folder=\"../api-client\" --typescript=true --azure-sdk-for-js=false --add-credentials=false"
+  }
+}
