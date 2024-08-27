@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "devDependencies": {
     "typescript": "catalog:"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.0",
+    "typeorm": "catalog:"
   }
 }

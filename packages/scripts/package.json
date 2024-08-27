@@ -2,8 +2,11 @@
   "name": "scripts",
   "version": "1.0.0",
   "dependencies": {
+    "api-client": "workspace:../api-client",
     "common": "workspace:",
-    "api-client": "workspace:../api-client"
+    "reflect-metadata": "^0.2.0",
+    "sqlite3": "^5.1.7",
+    "typeorm": "catalog:"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
